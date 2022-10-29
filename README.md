@@ -14,4 +14,4 @@ kadence-woocommerce-email-designer-uk.mo
 
 /wp-content/languages/plugins/
 
-Есть вопросы и предложения? https://github.com/Dizer7/kadence_woocommerce_email_designer_ru/issues
+Есть вопросы и предложения? https://github.com/Dizer7/kadence_woocommerce_email_designer_ua/issues
