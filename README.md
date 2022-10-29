@@ -1,6 +1,6 @@
 # Kadence WooCommerce Email Designer UA
 
-Украинская локализации для плагина Kadence WooCommerce Email Designer.
+Украинская локализации для плагина Kadence WooCommerce Email Designer
 
 Версия: 1.4.10
 
